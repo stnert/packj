@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 
 RUN apt update -y --fix-missing
 RUN apt install -y --fix-missing python3 gcc python3-dev python3-pip ruby-full rubygems-integration musl-dev protobuf-compiler git ruby-full libmagic-dev strace curl autoconf build-essential libfreetype-dev libssl-dev gawk
