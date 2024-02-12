@@ -1,5 +1,5 @@
 asttokens==2.0.5
-dnspython==2.2.1
+dnspython==2.6.0rc1
 esprima==4.0.1
 pyIsEmail==1.4.0
 func_timeout==4.3.5
